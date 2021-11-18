@@ -1,4 +1,4 @@
-/**
+/*
  * The HelloWorld program displays "Hello, World!" whenever run.
  *
  * @author  Ryan Chung
@@ -6,6 +6,9 @@
  * @since   2021-09-17
  */
 
+/**
+* This is the standard "Hello, World!" program.
+*/
 final class HelloWorld {
 
     /**
